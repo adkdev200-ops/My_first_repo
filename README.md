@@ -1,3 +1,3 @@
 # My_first_repo
-#author : dev \n
+#author : dev <br>
 this is my first git repository
